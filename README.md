@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RochaProgrammer
+- 👋 Hi, I’m @Rocha1313
 - 👀 I’m interested in CINEMA, GAMES and TECHNOLOGY
-- 🌱 I’m currently learning JAVA, JAVASCRIPT, C# for UNITY
+- 🌱 I’m currently learning JAVA, AWS, C# for UNITY
 - 💞️ I’m looking to collaborate on GAMING PROJECT'S
 - 📫 How to reach me with "rjoao0112@gmail.com".
 
