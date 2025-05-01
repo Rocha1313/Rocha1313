@@ -18,7 +18,7 @@ Junior backend developer with 2 years of experience in Java, Spring Boot, and Do
 ---
 
 ### 🛠️ Primary Technologies  
-Java · Spring Boot · Docker · PostgreSQL · GitHub Actions · AWS · Linux
+Java · Spring Boot · Docker · PostgreSQL · AWS · Linux
 
 ### 📚 Currently Learning  
 Node.js · Unity
